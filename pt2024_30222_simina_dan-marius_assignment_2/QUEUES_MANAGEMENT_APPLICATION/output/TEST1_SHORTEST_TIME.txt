@@ -1,0 +1,116 @@
+Time 0
+Tasks [Task(id=3, arrival=14, service=2), Task(id=0, arrival=19, service=3), Task(id=1, arrival=21, service=3), Task(id=2, arrival=25, service=2)]
+Server[]
+Server[]
+Time 1
+Tasks [Task(id=3, arrival=14, service=2), Task(id=0, arrival=19, service=3), Task(id=1, arrival=21, service=3), Task(id=2, arrival=25, service=2)]
+Server[]
+Server[]
+Time 2
+Tasks [Task(id=3, arrival=14, service=2), Task(id=0, arrival=19, service=3), Task(id=1, arrival=21, service=3), Task(id=2, arrival=25, service=2)]
+Server[]
+Server[]
+Time 3
+Tasks [Task(id=3, arrival=14, service=2), Task(id=0, arrival=19, service=3), Task(id=1, arrival=21, service=3), Task(id=2, arrival=25, service=2)]
+Server[]
+Server[]
+Time 4
+Tasks [Task(id=3, arrival=14, service=2), Task(id=0, arrival=19, service=3), Task(id=1, arrival=21, service=3), Task(id=2, arrival=25, service=2)]
+Server[]
+Server[]
+Time 5
+Tasks [Task(id=3, arrival=14, service=2), Task(id=0, arrival=19, service=3), Task(id=1, arrival=21, service=3), Task(id=2, arrival=25, service=2)]
+Server[]
+Server[]
+Time 6
+Tasks [Task(id=3, arrival=14, service=2), Task(id=0, arrival=19, service=3), Task(id=1, arrival=21, service=3), Task(id=2, arrival=25, service=2)]
+Server[]
+Server[]
+Time 7
+Tasks [Task(id=3, arrival=14, service=2), Task(id=0, arrival=19, service=3), Task(id=1, arrival=21, service=3), Task(id=2, arrival=25, service=2)]
+Server[]
+Server[]
+Time 8
+Tasks [Task(id=3, arrival=14, service=2), Task(id=0, arrival=19, service=3), Task(id=1, arrival=21, service=3), Task(id=2, arrival=25, service=2)]
+Server[]
+Server[]
+Time 9
+Tasks [Task(id=3, arrival=14, service=2), Task(id=0, arrival=19, service=3), Task(id=1, arrival=21, service=3), Task(id=2, arrival=25, service=2)]
+Server[]
+Server[]
+Time 10
+Tasks [Task(id=3, arrival=14, service=2), Task(id=0, arrival=19, service=3), Task(id=1, arrival=21, service=3), Task(id=2, arrival=25, service=2)]
+Server[]
+Server[]
+Time 11
+Tasks [Task(id=3, arrival=14, service=2), Task(id=0, arrival=19, service=3), Task(id=1, arrival=21, service=3), Task(id=2, arrival=25, service=2)]
+Server[]
+Server[]
+Time 12
+Tasks [Task(id=3, arrival=14, service=2), Task(id=0, arrival=19, service=3), Task(id=1, arrival=21, service=3), Task(id=2, arrival=25, service=2)]
+Server[]
+Server[]
+Time 13
+Tasks [Task(id=3, arrival=14, service=2), Task(id=0, arrival=19, service=3), Task(id=1, arrival=21, service=3), Task(id=2, arrival=25, service=2)]
+Server[]
+Server[]
+Time 14
+Tasks [Task(id=0, arrival=19, service=3), Task(id=1, arrival=21, service=3), Task(id=2, arrival=25, service=2)]
+Server[Task(id=3, arrival=14, service=2)]
+Server[]
+Time 15
+Tasks [Task(id=0, arrival=19, service=3), Task(id=1, arrival=21, service=3), Task(id=2, arrival=25, service=2)]
+Server[Task(id=3, arrival=14, service=1)]
+Server[]
+Time 16
+Tasks [Task(id=0, arrival=19, service=3), Task(id=1, arrival=21, service=3), Task(id=2, arrival=25, service=2)]
+Server[]
+Server[]
+Time 17
+Tasks [Task(id=0, arrival=19, service=3), Task(id=1, arrival=21, service=3), Task(id=2, arrival=25, service=2)]
+Server[]
+Server[]
+Time 18
+Tasks [Task(id=0, arrival=19, service=3), Task(id=1, arrival=21, service=3), Task(id=2, arrival=25, service=2)]
+Server[]
+Server[]
+Time 19
+Tasks [Task(id=1, arrival=21, service=3), Task(id=2, arrival=25, service=2)]
+Server[Task(id=0, arrival=19, service=3)]
+Server[]
+Time 20
+Tasks [Task(id=1, arrival=21, service=3), Task(id=2, arrival=25, service=2)]
+Server[Task(id=0, arrival=19, service=2)]
+Server[]
+Time 21
+Tasks [Task(id=2, arrival=25, service=2)]
+Server[Task(id=0, arrival=19, service=1)]
+Server[Task(id=1, arrival=21, service=3)]
+Time 22
+Tasks [Task(id=2, arrival=25, service=2)]
+Server[]
+Server[Task(id=1, arrival=21, service=2)]
+Time 23
+Tasks [Task(id=2, arrival=25, service=2)]
+Server[]
+Server[Task(id=1, arrival=21, service=1)]
+Time 24
+Tasks [Task(id=2, arrival=25, service=2)]
+Server[]
+Server[]
+Time 25
+Tasks []
+Server[Task(id=2, arrival=25, service=2)]
+Server[]
+Time 26
+Tasks []
+Server[Task(id=2, arrival=25, service=1)]
+Server[]
+Time 27
+Tasks []
+Server[]
+Server[]
+
+Average waiting time: 0.0
+Pick hour: 21
+Average service time: 2.666666666666667
