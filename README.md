@@ -1,14 +1,12 @@
 # 🚀 Assignment Solutions
 
-This repository contains solutions for multiple **Object-Oriented Programming (OOP)** assignments in **Java**. Each assignment demonstrates **various design patterns, algorithms, GUI components, and database integration**, following best practices for **modularity and performance**.
+This repository contains solutions for multiple **Object-Oriented Programming (OOP)** assignments in **Java**. 
 
 ## 📂 Folder Structure
 
 - `assignment1/` - **Polynomial Calculator**  
 - `assignment2/` - **Queue Management Simulation**  
 - `assignment3/` - **Orders Management System**  
-
-Each folder includes **source code, JavaDoc files, SQL scripts (if applicable), and documentation**.
 
 ---
 
